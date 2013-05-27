@@ -1,6 +1,6 @@
 public class Testing{
 
-//please delete it after testing
+
 
 Testing(){
 boolean testing = true;
