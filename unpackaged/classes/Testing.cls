@@ -11,8 +11,6 @@ system.debug(testing);
 system.debug('testing code changes');
 }//testing ................
 
-//Testing the daily code analyzer
-//Added
-//1134
+//Test
 
 }
